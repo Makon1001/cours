@@ -91,7 +91,7 @@ node_modules
 
 
 
-Créer une image docker depuis le dockerfile : 
+## Créer une image docker depuis le dockerfile : 
 ````docker build -t NomDeLimage .````
 
 ````-t````permet de definir le nom 
